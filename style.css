@@ -1,0 +1,18 @@
+body { background-color: #e5e5e5;
+        color: black;
+        font-family: 'Roboto', sans-serif;
+        font-family: 'Roboto Mono', monospace;
+        margin-left: 30%;
+        margin-right: 30%;
+      }
+h1 {
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 500%;
+      }
+#profileimage {float: right;
+      }
+img.one { width: 30%;
+    height: 30%
+      }
