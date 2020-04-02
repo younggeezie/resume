@@ -1,10 +1,19 @@
-body { background-color: #e5e5e5;
-        color: black;
-        font-family: 'Roboto', sans-serif;
-        font-family: 'Roboto Mono', monospace;
-        margin-left: 30%;
-        margin-right: 30%;
+body {
+    margin-top: 100px;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    margin-bottom: 100px;
       }
+
+.content {
+    background-color: #fafafa;
+    max-width: 800px;
+    margin: auto;
+    padding: 50px 100px 50px 50px;
+    border-right: 1px solid #efefef;
+      }
+
 h1 {
     color: black;
     font-family: 'Roboto', sans-serif;

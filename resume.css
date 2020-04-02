@@ -12,6 +12,7 @@ body {
   font-family: 'Roboto Mono', monospace;
   color: black;
   font-size: normal;
+  margin-bottom: 100px;
 }
 h1 small {
   color: #999;
@@ -30,7 +31,7 @@ h1, h2, h3, h4 {
   padding: 50px 100px 50px 50px;
   border-right: 1px solid #efefef;
 }
-.synopsis, .position, .education {
+.synopsis, .technologies, .position, .education {
   margin-bottom: 25px;
   margin-left: -40px;
   padding-left: 70px;
@@ -39,10 +40,12 @@ h1, h2, h3, h4 {
 .synopsis {
   border-top: 2px solid purple;
 }
+.technologies {
+  border-top: 2px solid green;
+}
 .position {
   border-top: 2px solid red;
 }
-
 .education {
   border-top: 2px solid green;
 }
@@ -59,6 +62,11 @@ h1, h2, h3, h4 {
   font-style: italic;
 }
 .time-period {
+  display: block;
+  font-size: smaller;
+  color: #999;
+}
+.detailed {
   display: block;
   font-size: smaller;
   color: #999;
