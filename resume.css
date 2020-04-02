@@ -6,8 +6,8 @@
 }
 
 body {
-  margin: 0px;
-  background-color: #ffffff;
+  margin-top: 100px;
+  background-color: ##fafafa;
   font-family: 'Roboto', sans-serif;
   font-family: 'Roboto Mono', monospace;
   color: black;
@@ -26,7 +26,7 @@ h1, h2, h3, h4 {
 .content {
   background-color: #fafafa;
   max-width: 800px;
-  margin: 0;
+  margin: auto;
   padding: 50px 100px 50px 50px;
   border-right: 1px solid #efefef;
 }
