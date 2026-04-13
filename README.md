@@ -1,2 +1,0 @@
-# Resume
- All about Gil.
